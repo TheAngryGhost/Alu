@@ -2,6 +2,7 @@
   <img src="https://github.com/titaniumnetwork-dev/Alu/assets/99224452/d740378b-3fba-4470-8f06-3eefdae8a313" alt="AluLogo" width="250"/>
 </p>
 
+
 # Alu
 
 Alu is a beautiful, functional, and sleek web proxy that prioritizes customization and ease of use.
